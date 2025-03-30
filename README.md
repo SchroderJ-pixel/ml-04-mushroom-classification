@@ -12,14 +12,14 @@ This repository is for the **Mushroom Classification** project, where the object
 - **Reflections:** Insights and observations documented at each stage of the project.​
 
 ## 🚀 Key Results
-## 🌲🌳​​Random Forest Classifier​🌳🌲
+### 🌲🌳​​Random Forest Classifier​🌳🌲
 
 - **Accuracy:** 99.38%
 - **Precision:** 1.0000
 - **Recall:** 0.9872
 - **F1-Score:** 0.9936
 
-## 🌳Decision Tree Classifier🌳
+### 🌳Decision Tree Classifier🌳
 
 - **Accuracy:** 99%
 - **Macro Average Precision:** 0.99
